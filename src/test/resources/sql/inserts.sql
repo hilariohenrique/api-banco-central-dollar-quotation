@@ -1,0 +1,1 @@
+insert into tb_cotacao (id, data_cadastro, data_cotacao, cotacao_compra, cotacao_venda) values (uuid_in(md5(random()::text || random()::text)::cstring), '2023-04-23 13:51:33.470927', '2023-04-18', 4.9672, 4.9678);
