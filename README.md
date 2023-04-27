@@ -19,5 +19,5 @@ Scripts sql que deletam e recriam a tabela no banco.
 
 O sistema utiliza um vo, "Value Object", que geralmente são imutáveis. Eles são frequentemente usados para representar dados que são lidos de um banco de dados ou de um serviço de API.
 
-Meus agradecimentos ao Guilherme Moreira, minha dupla nesse projeto, que deu muito apoio e suporte nesse projeto.
+Meus agradecimentos ao Guilherme Moreira, minha dupla nesse projeto, que deu muito apoio e suporte nesse módulo.
 
